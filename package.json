@@ -1,0 +1,14 @@
+{
+  "name": "gestion-integration-cloud",
+  "version": "1.0.0",
+  "description": "Application pour l'intégration et la gestion des services cloud.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo 'No tests yet'"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "dotenv": "^10.0.0"
+  }
+}
