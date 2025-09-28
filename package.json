@@ -1,7 +1,7 @@
 {
   "name": "gestion-integration-cloud",
   "version": "1.0.0",
-  "description": "Application pour l'intégration et la gestion des services cloud.",
+  "description": "Cloud service integration and management application.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
